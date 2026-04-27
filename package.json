@@ -1,5 +1,5 @@
 {
-  "name": "neurolytics",
+  "name": "neurolytics-v2",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -9,16 +9,11 @@
     "lint": "eslint"
   },
   "dependencies": {
-    "@supabase/auth-helpers-nextjs": "^0.15.0",
-    "@supabase/ssr": "^0.10.2",
-    "@supabase/supabase-js": "^2.104.0",
-    "clsx": "^2.1.1",
-    "lucide-react": "^1.8.0",
+    "framer-motion": "^12.38.0",
+    "lucide-react": "^1.11.0",
     "next": "16.2.4",
     "react": "19.2.4",
-    "react-dom": "19.2.4",
-    "recharts": "^3.8.1",
-    "tailwind-merge": "^3.5.0"
+    "react-dom": "19.2.4"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4.2.4",
